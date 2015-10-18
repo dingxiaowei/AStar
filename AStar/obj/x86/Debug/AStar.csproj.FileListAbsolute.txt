@@ -1,0 +1,10 @@
+D:\Eclipse\AStar\AStar\bin\Debug\AStar.exe
+D:\Eclipse\AStar\AStar\bin\Debug\AStar.pdb
+D:\Eclipse\AStar\AStar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Eclipse\AStar\AStar\obj\x86\Debug\AStar.exe
+D:\Eclipse\AStar\AStar\obj\x86\Debug\AStar.pdb
+C:\Users\ding\Desktop\AStar\AStar\obj\x86\Debug\AStar.exe
+C:\Users\ding\Desktop\AStar\AStar\obj\x86\Debug\AStar.pdb
+C:\Users\ding\Desktop\AStar\AStar\bin\Debug\AStar.exe
+C:\Users\ding\Desktop\AStar\AStar\bin\Debug\AStar.pdb
+C:\Users\ding\Desktop\AStar\AStar\obj\x86\Debug\AStar.csprojResolveAssemblyReference.cache
